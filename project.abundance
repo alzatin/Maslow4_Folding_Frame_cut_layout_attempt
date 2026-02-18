@@ -96,7 +96,8 @@
         },
         {
           "name": "Sheet Width",
-          "ioValue": 2500
+          "ioValue": 2500,
+          "currentEquation": "2500"
         },
         {
           "name": "Sheet Height",
@@ -310,14 +311,15 @@
     },
     {
       "atomType": "GitHubMolecule",
-      "x": 0.23031283710895362,
-      "y": 0.6558891454965358,
+      "x": 0.20171957671957674,
+      "y": 0.4126506024096385,
       "uniqueID": "id-216895",
       "name": "Maslow4_Folding_Frame_Parts_Beam_Assembly",
       "ioValues": [
         {
           "name": "WoodThick",
-          "ioValue": 19.05
+          "ioValue": 19.05,
+          "currentEquation": "19.05"
         },
         {
           "name": "BeamLength",
