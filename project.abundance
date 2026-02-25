@@ -19,44 +19,9 @@
       ]
     },
     {
-      "atomType": "Gcode",
-      "x": 0.6860841423948221,
-      "y": 0.6096997690531177,
-      "uniqueID": "id-171303",
-      "ioValues": [
-        {
-          "name": "geometry",
-          "ioValue": "__GEOMETRY_INPUT__"
-        },
-        {
-          "name": "Tool Size",
-          "ioValue": 6.35
-        },
-        {
-          "name": "Passes",
-          "ioValue": 1
-        },
-        {
-          "name": "Speed",
-          "ioValue": 700
-        },
-        {
-          "name": "Cut Through",
-          "ioValue": 0
-        },
-        {
-          "name": "Part Name",
-          "ioValue": "Maslow4_Folding_Frame_cut_layout_",
-          "currentEquation": "Maslow4_Folding_Frame_cut_layout_"
-        }
-      ],
-      "partName": "Maslow4_Folding_Frame_cut_layout_",
-      "sortDirection": "Left"
-    },
-    {
       "atomType": "Export",
-      "x": 0.8359375000000001,
-      "y": 0.6594202898550725,
+      "x": 0.8390804597701149,
+      "y": 0.6686746987951807,
       "uniqueID": "id-235488",
       "ioValues": [
         {
@@ -82,6 +47,231 @@
       "resolution": 96,
       "importIndex": 0,
       "partName": "Maslow4_Folding_Frame_cut_layout_"
+    },
+    {
+      "atomType": "CutLayout",
+      "x": 0.4674329501915709,
+      "y": 0.5481927710843374,
+      "uniqueID": "id-239213",
+      "name": "Cut Layout",
+      "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": "__GEOMETRY_INPUT__"
+        },
+        {
+          "name": "Sheet Width",
+          "ioValue": 4000
+        },
+        {
+          "name": "Sheet Height",
+          "ioValue": 4019
+        },
+        {
+          "name": "Part Padding",
+          "ioValue": 10
+        },
+        {
+          "name": "Orientations",
+          "ioValue": 5
+        }
+      ],
+      "placements": [
+        [
+          {
+            "id": 5,
+            "rotate": 288,
+            "translate": {
+              "x": 233.76083146286533,
+              "y": 1228.328513554012
+            }
+          },
+          {
+            "id": 4,
+            "rotate": 72,
+            "translate": {
+              "x": 144.7971343476232,
+              "y": 821.992696991887
+            }
+          },
+          {
+            "id": 0,
+            "rotate": 288,
+            "translate": {
+              "x": 701.2824944186201,
+              "y": 1228.3285135664667
+            }
+          },
+          {
+            "id": 1,
+            "rotate": 288,
+            "translate": {
+              "x": 437.30649954668684,
+              "y": 1866.8138376210134
+            }
+          },
+          {
+            "id": 2,
+            "rotate": 72,
+            "translate": {
+              "x": 792.371110631519,
+              "y": 842.2099528010258
+            }
+          },
+          {
+            "id": 7,
+            "rotate": 288,
+            "translate": {
+              "x": 516.4179864213627,
+              "y": 2432.2414593043864
+            }
+          },
+          {
+            "id": 9,
+            "rotate": 216,
+            "translate": {
+              "x": 248.38567244064242,
+              "y": 2628.839610868723
+            }
+          },
+          {
+            "id": 8,
+            "rotate": 72,
+            "translate": {
+              "x": 382.63678766945145,
+              "y": 1789.4687825268581
+            }
+          },
+          {
+            "id": 11,
+            "rotate": 288,
+            "translate": {
+              "x": 703.2190860846305,
+              "y": 2702.9276701849594
+            }
+          },
+          {
+            "id": 3,
+            "rotate": 144,
+            "translate": {
+              "x": 259.7833394133109,
+              "y": 2867.819933768271
+            }
+          },
+          {
+            "id": 12,
+            "rotate": 72,
+            "translate": {
+              "x": 50.10045614267713,
+              "y": 1624.0643653878406
+            }
+          },
+          {
+            "id": 14,
+            "rotate": 72,
+            "translate": {
+              "x": 49.755057723690925,
+              "y": 2851.6524721861615
+            }
+          },
+          {
+            "id": 19,
+            "rotate": 360,
+            "translate": {
+              "x": 140.61404180398333,
+              "y": 33.10792268116597
+            }
+          },
+          {
+            "id": 16,
+            "rotate": 144,
+            "translate": {
+              "x": -55.57394752761624,
+              "y": 3159.812445112655
+            }
+          },
+          {
+            "id": 6,
+            "rotate": 0,
+            "translate": {
+              "x": 101.66997134523055,
+              "y": 255.4776207838747
+            }
+          },
+          {
+            "id": 21,
+            "rotate": 288,
+            "translate": {
+              "x": 54.07038310350427,
+              "y": 108.51256492779731
+            }
+          },
+          {
+            "id": 10,
+            "rotate": 72,
+            "translate": {
+              "x": 521.0986417296289,
+              "y": 2117.9061810164085
+            }
+          },
+          {
+            "id": 22,
+            "rotate": 72,
+            "translate": {
+              "x": 35.87315587678721,
+              "y": 1760.3711712713211
+            }
+          },
+          {
+            "id": 18,
+            "rotate": 288,
+            "translate": {
+              "x": 57.33865888748962,
+              "y": 505.2330756924697
+            }
+          },
+          {
+            "id": 13,
+            "rotate": 72,
+            "translate": {
+              "x": 424.44407771619706,
+              "y": 1459.4511941102692
+            }
+          },
+          {
+            "id": 15,
+            "rotate": 216,
+            "translate": {
+              "x": 118.4416208888199,
+              "y": 2536.9983620097028
+            }
+          },
+          {
+            "id": 20,
+            "rotate": 144,
+            "translate": {
+              "x": -36.93225942987878,
+              "y": 2593.0218896485844
+            }
+          },
+          {
+            "id": 17,
+            "rotate": 216,
+            "translate": {
+              "x": 60.39445108205688,
+              "y": 770.4654580474623
+            }
+          },
+          {
+            "id": 23,
+            "rotate": 288,
+            "translate": {
+              "x": 46.24729530821584,
+              "y": 589.451634262415
+            }
+          }
+        ]
+      ]
     },
     {
       "atomType": "GitHubMolecule",
@@ -28954,230 +29144,39 @@
       "fileTypeVersion": 1
     },
     {
-      "atomType": "CutLayout",
-      "x": 0.4674329501915709,
-      "y": 0.5542168674698795,
-      "uniqueID": "id-239213",
-      "name": "Cut Layout",
+      "atomType": "Gcode",
+      "x": 0.6992337164750958,
+      "y": 0.5933734939759037,
+      "uniqueID": "id-242944",
       "ioValues": [
         {
           "name": "geometry",
           "ioValue": "__GEOMETRY_INPUT__"
         },
         {
-          "name": "Sheet Width",
-          "ioValue": 4000
+          "name": "Tool Size",
+          "ioValue": 6.35
         },
         {
-          "name": "Sheet Height",
-          "ioValue": 4019
+          "name": "Passes",
+          "ioValue": 1
         },
         {
-          "name": "Part Padding",
-          "ioValue": 10,
-          "currentEquation": "10"
+          "name": "Speed",
+          "ioValue": 1500
         },
         {
-          "name": "Orientations",
-          "ioValue": 40
+          "name": "Cut Through",
+          "ioValue": 0
+        },
+        {
+          "name": "Part Name",
+          "ioValue": "Maslow4_Folding_Frame_cut_layout_",
+          "currentEquation": "Maslow4_Folding_Frame_cut_layout_"
         }
       ],
-      "placements": [
-        [
-          {
-            "id": 5,
-            "rotate": 276,
-            "translate": {
-              "x": 233.76083146286533,
-              "y": 1228.328513554012
-            }
-          },
-          {
-            "id": 4,
-            "rotate": 96,
-            "translate": {
-              "x": 144.7971343476232,
-              "y": 821.992696991887
-            }
-          },
-          {
-            "id": 0,
-            "rotate": 264,
-            "translate": {
-              "x": 701.2824944186201,
-              "y": 1228.3285135664667
-            }
-          },
-          {
-            "id": 1,
-            "rotate": 300,
-            "translate": {
-              "x": 437.30649954668684,
-              "y": 1866.8138376210134
-            }
-          },
-          {
-            "id": 2,
-            "rotate": 84,
-            "translate": {
-              "x": 792.371110631519,
-              "y": 842.2099528010258
-            }
-          },
-          {
-            "id": 7,
-            "rotate": 300,
-            "translate": {
-              "x": 516.4179864213627,
-              "y": 2432.2414593043864
-            }
-          },
-          {
-            "id": 9,
-            "rotate": 240,
-            "translate": {
-              "x": 248.38567244064242,
-              "y": 2628.839610868723
-            }
-          },
-          {
-            "id": 8,
-            "rotate": 36,
-            "translate": {
-              "x": 382.63678766945145,
-              "y": 1789.4687825268581
-            }
-          },
-          {
-            "id": 11,
-            "rotate": 312,
-            "translate": {
-              "x": 703.2190860846305,
-              "y": 2702.9276701849594
-            }
-          },
-          {
-            "id": 3,
-            "rotate": 132,
-            "translate": {
-              "x": 259.7833394133109,
-              "y": 2867.819933768271
-            }
-          },
-          {
-            "id": 12,
-            "rotate": 48,
-            "translate": {
-              "x": 50.10045614267713,
-              "y": 1624.0643653878406
-            }
-          },
-          {
-            "id": 14,
-            "rotate": 48,
-            "translate": {
-              "x": 49.755057723690925,
-              "y": 2851.6524721861615
-            }
-          },
-          {
-            "id": 19,
-            "rotate": 348,
-            "translate": {
-              "x": 140.61404180398333,
-              "y": 33.10792268116597
-            }
-          },
-          {
-            "id": 16,
-            "rotate": 132,
-            "translate": {
-              "x": -55.57394752761624,
-              "y": 3159.812445112655
-            }
-          },
-          {
-            "id": 6,
-            "rotate": 24,
-            "translate": {
-              "x": 101.66997134523055,
-              "y": 255.4776207838747
-            }
-          },
-          {
-            "id": 21,
-            "rotate": 312,
-            "translate": {
-              "x": 54.07038310350427,
-              "y": 108.51256492779731
-            }
-          },
-          {
-            "id": 10,
-            "rotate": 36,
-            "translate": {
-              "x": 521.0986417296289,
-              "y": 2117.9061810164085
-            }
-          },
-          {
-            "id": 22,
-            "rotate": 84,
-            "translate": {
-              "x": 35.87315587678721,
-              "y": 1760.3711712713211
-            }
-          },
-          {
-            "id": 18,
-            "rotate": 312,
-            "translate": {
-              "x": 57.33865888748962,
-              "y": 505.2330756924697
-            }
-          },
-          {
-            "id": 13,
-            "rotate": 84,
-            "translate": {
-              "x": 424.44407771619706,
-              "y": 1459.4511941102692
-            }
-          },
-          {
-            "id": 15,
-            "rotate": 228,
-            "translate": {
-              "x": 118.4416208888199,
-              "y": 2536.9983620097028
-            }
-          },
-          {
-            "id": 20,
-            "rotate": 120,
-            "translate": {
-              "x": -36.93225942987878,
-              "y": 2593.0218896485844
-            }
-          },
-          {
-            "id": 17,
-            "rotate": 204,
-            "translate": {
-              "x": 60.39445108205688,
-              "y": 770.4654580474623
-            }
-          },
-          {
-            "id": 23,
-            "rotate": 300,
-            "translate": {
-              "x": 46.24729530821584,
-              "y": 589.451634262415
-            }
-          }
-        ]
-      ]
+      "partName": "Maslow4_Folding_Frame_cut_layout_",
+      "sortDirection": "Left"
     }
   ],
   "allConnectors": [
