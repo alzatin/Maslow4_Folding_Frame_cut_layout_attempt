@@ -84,236 +84,9 @@
       "partName": "Maslow4_Folding_Frame_cut_layout_"
     },
     {
-      "atomType": "CutLayout",
-      "x": 0.4233716475095785,
-      "y": 0.5993975903614458,
-      "uniqueID": "id-254092",
-      "name": "Cut Layout",
-      "ioValues": [
-        {
-          "name": "geometry",
-          "ioValue": "__GEOMETRY_INPUT__"
-        },
-        {
-          "name": "Sheet Width",
-          "ioValue": 2500
-        },
-        {
-          "name": "Sheet Height",
-          "ioValue": 1300
-        },
-        {
-          "name": "Part Padding",
-          "ioValue": 10,
-          "currentEquation": "10"
-        },
-        {
-          "name": "Orientations",
-          "ioValue": 20,
-          "currentEquation": "20"
-        }
-      ],
-      "placements": [
-        [
-          {
-            "id": 0,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 1,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 2,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 3,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 4,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 5,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 6,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 7,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 8,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 9,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 10,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 11,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 12,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 13,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 14,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 15,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 16,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 17,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 18,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 19,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 20,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 21,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 22,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          },
-          {
-            "id": 23,
-            "rotate": 0,
-            "translate": {
-              "x": 0,
-              "y": 0
-            }
-          }
-        ]
-      ]
-    },
-    {
       "atomType": "GitHubMolecule",
-      "x": 0.20701058201058203,
-      "y": 0.4246987951807229,
+      "x": 0.2049808429118774,
+      "y": 0.42168674698795183,
       "uniqueID": "id-216895",
       "name": "Maslow4_Folding_Frame_Parts_Beam_Assembly",
       "ioValues": [
@@ -339,7 +112,8 @@
         },
         {
           "name": "LegAngle",
-          "ioValue": 10
+          "ioValue": 11,
+          "currentEquation": "11"
         },
         {
           "name": "BitDiameter",
@@ -3303,7 +3077,7 @@
             },
             {
               "name": "LegAngle",
-              "ioValue": 10
+              "ioValue": 11
             },
             {
               "name": "Bolt2Diameter",
@@ -3839,7 +3613,7 @@
                 },
                 {
                   "name": "z",
-                  "ioValue": 13.891854213354426
+                  "ioValue": 15.264719630123585
                 }
               ],
               "currentEquation": "-(x - y +z)"
@@ -3856,7 +3630,7 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": -410.8918542133544
+                  "ioValue": -412.2647196301236
                 },
                 {
                   "name": "yDist",
@@ -3912,7 +3686,7 @@
                 },
                 {
                   "name": "z-axis degrees",
-                  "ioValue": -10
+                  "ioValue": -11
                 }
               ]
             },
@@ -3945,7 +3719,7 @@
                 },
                 {
                   "name": "y",
-                  "ioValue": 10
+                  "ioValue": 11
                 }
               ],
               "currentEquation": "x *sin((y* pi )/180)"
@@ -3959,7 +3733,7 @@
               "ioValues": [
                 {
                   "name": "x",
-                  "ioValue": 10
+                  "ioValue": 11
                 }
               ],
               "currentEquation": "-x"
@@ -29181,18 +28955,7 @@
       "fileTypeVersion": 1
     }
   ],
-  "allConnectors": [
-    {
-      "ap2Name": "geometry",
-      "ap1ID": "id-254092",
-      "ap2ID": "id-171303"
-    },
-    {
-      "ap2Name": "geometry",
-      "ap1ID": "id-216895",
-      "ap2ID": "id-254092"
-    }
-  ],
+  "allConnectors": [],
   "unitsKey": "MM",
   "fileTypeVersion": 1,
   "filetypeVersion": 1
